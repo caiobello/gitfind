@@ -1,3 +1,32 @@
+# GITFIND - Aplicação de Repositórios de Usuários GitHub
+
+Esta é uma aplicação simples em React que permite pesquisar por um usuário do GitHub e exibir suas informações de perfil juntamente com seus repositórios.
+
+## Sumário
+
+- [Introdução](#introdução)
+- [Recursos](#recursos)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+
+## Introdução
+
+Esta aplicação busca dados na API do GitHub para recuperar informações do usuário e repositórios com base no nome de usuário fornecido. Ela utiliza o React para construir a interface do usuário e gerenciar as interações.
+
+## Recursos
+
+- Busque um usuário do GitHub usando o nome de usuário.
+- Exiba a foto do perfil, nome e biografia do usuário.
+- Liste os repositórios do usuário, mostrando os nomes e descrições.
+
+
+## Tecnologias Utilizadas
+
+- React
+- JavaScript
+- HTML
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

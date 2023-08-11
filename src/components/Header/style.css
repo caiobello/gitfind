@@ -1,0 +1,21 @@
+/* style.css */
+
+/* Estilos para o componente de cabeçalho */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .header p {
+    font-size: 16px;
+  }
+  
+  /* Exemplo de estilo para um botão no cabeçalho */
+
+  
